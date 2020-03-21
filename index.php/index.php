@@ -26,3 +26,8 @@ sdfsdfdgdfgdg
 
 anastasis papastogiannidis
  17
+<?php 
+$servername="localhost";
+$username="papasto";
+$password="anastasis";
+?>
